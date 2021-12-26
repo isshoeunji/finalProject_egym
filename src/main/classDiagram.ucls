@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="kosta.mvc.dto.CartListDTO" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/dto/CartListDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="164" y="127"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="kosta.mvc.dto.InfoDto.InfoDtoBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/dto/InfoDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="171" x="322" y="467"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="kosta.mvc.dto.InfoDto" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/dto/InfoDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="139" x="322" y="58"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="kosta.mvc.dto.MemberDto" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/dto/MemberDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="737" y="462"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="kosta.mvc.dto.MemberDto.MemberDtoBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/dto/MemberDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="694" y="1123"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="kosta.mvc.domain.Address" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Address.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1148" y="326"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="kosta.mvc.domain.Board.BoardBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Board.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2283" y="1142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="kosta.mvc.domain.Board" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Board.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1739" y="609"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="kosta.mvc.domain.BoardImage" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/BoardImage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2301" y="253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="kosta.mvc.domain.BoardImage.BoardImageBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/BoardImage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2299" y="631"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="kosta.mvc.domain.BurnCalory" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/BurnCalory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2613" y="262"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="kosta.mvc.domain.BurnCalory.BurnCaloryBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/BurnCalory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2613" y="647"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="kosta.mvc.domain.Cart" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Cart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2885" y="252"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="kosta.mvc.domain.Challenge.ChallengeBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Challenge.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3196" y="857"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="kosta.mvc.domain.Challenge" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Challenge.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3195" y="334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="kosta.mvc.domain.FoodCalory" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/FoodCalory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3620" y="420"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="kosta.mvc.domain.FoodCalory.FoodCaloryBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/FoodCalory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3545" y="1072"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="kosta.mvc.domain.Grade" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Grade.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3953" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="kosta.mvc.domain.Info" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Info.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4178" y="291"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="kosta.mvc.domain.Info.InfoBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Info.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4181" y="756"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="kosta.mvc.domain.Member.MemberBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Member.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4427" y="1446"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="kosta.mvc.domain.Member" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Member.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4778" y="623"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="kosta.mvc.domain.Reply" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Reply.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5496" y="420"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="kosta.mvc.domain.Review" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Review.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5958" y="347"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="25" language="java" name="kosta.mvc.domain.Role" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Role.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5810" y="728"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="26" language="java" name="kosta.mvc.domain.Tag" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Tag.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5619" y="918"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="kosta.mvc.domain.Tag.TagBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/Tag.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5626" y="1192"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="kosta.mvc.domain.order.NonuserOrder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/NonuserOrder.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6423" y="283"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="kosta.mvc.domain.order.NonuserOrder.NonuserOrderBuilder" 
+    project="FinalProject_Team3" file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/NonuserOrder.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6424" y="718"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="kosta.mvc.domain.order.NonuserOrderDetail.NonuserOrderDetailBuilder" 
+    project="FinalProject_Team3" file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/NonuserOrderDetail.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6862" y="789"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="kosta.mvc.domain.order.NonuserOrderDetail" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/NonuserOrderDetail.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6857" y="313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="kosta.mvc.domain.order.NonuserRefund" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/NonuserRefund.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="7230" y="232"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="kosta.mvc.domain.order.NonuserRefund.NonuserRefundBuilder" 
+    project="FinalProject_Team3" file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/NonuserRefund.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="7250" y="551"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="kosta.mvc.domain.order.Order" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/Order.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="7156" y="756"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="kosta.mvc.domain.order.OrderDetail" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/OrderDetail.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="7307" y="763"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="kosta.mvc.domain.order.UserOrder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/UserOrder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="7644" y="316"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="kosta.mvc.domain.order.UserOrder.UserOrderBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/UserOrder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="7592" y="770"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="kosta.mvc.domain.order.UserOrderDetail.UserOrderDetailBuilder" 
+    project="FinalProject_Team3" file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/UserOrderDetail.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="8021" y="820"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="kosta.mvc.domain.order.UserOrderDetail" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/UserOrderDetail.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="8061" y="339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="kosta.mvc.domain.order.UserRefund.UserRefundBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/UserRefund.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="8408" y="556"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="kosta.mvc.domain.order.UserRefund" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/order/UserRefund.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="8397" y="237"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="kosta.mvc.domain.product.Product" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/product/Product.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="8901" y="437"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="kosta.mvc.domain.product.Product.ProductBuilder" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/product/Product.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="8884" y="1074"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="kosta.mvc.domain.product.ProductImage" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/product/ProductImage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="9384" y="280"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="kosta.mvc.domain.product.ProductImage.ProductImageBuilder" 
+    project="FinalProject_Team3" file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/product/ProductImage.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="9383" y="662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="kosta.mvc.domain.product.ProductQuestion" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/domain/product/ProductQuestion.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="9770" y="287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="kosta.mvc.controller.BoardController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/BoardController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="315" width="253" x="93" y="1355"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="kosta.mvc.controller.CartController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/CartController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="573" y="1490"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="kosta.mvc.controller.ChallengeController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/ChallengeController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="986" y="1497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="kosta.mvc.controller.IndexController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/IndexController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1337" y="1469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="kosta.mvc.controller.LoginController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/LoginController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="575" y="1919"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="kosta.mvc.controller.MyPageController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/MyPageController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1697" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="kosta.mvc.controller.OrderController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/OrderController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2103" y="1790"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="kosta.mvc.controller.ProductController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/ProductController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1699" y="1478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="kosta.mvc.controller.ReplyController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/ReplyController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1328" y="1782"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="kosta.mvc.controller.ReviewController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/ReviewController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1449" y="2123"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="kosta.mvc.controller.ShopLoginController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/ShopLoginController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="978" y="1916"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="kosta.mvc.controller.ShopMyPageController" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/controller/ShopMyPageController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2107" y="2210"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="kosta.mvc.service.AddressService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/AddressService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="151" y="2348"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="60" language="java" name="kosta.mvc.service.BoardService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/BoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="450" y="2367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="61" language="java" name="kosta.mvc.service.BoardServiceImpl" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/BoardServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="450" y="2645"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="kosta.mvc.service.CalorieService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/CalorieService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="766" y="2364"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="63" language="java" name="kosta.mvc.service.CartService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/CartService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1052" y="2329"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="64" language="java" name="kosta.mvc.service.CartServiceImpl" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/CartServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1045" y="2669"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="kosta.mvc.service.CertificationService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/CertificationService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1375" y="2349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="66" language="java" name="kosta.mvc.service.ChallengeService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/ChallengeService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1686" y="2365"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="67" language="java" name="kosta.mvc.service.ChallengeServiceImpl" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/ChallengeServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1690" y="2578"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="kosta.mvc.service.EmailCertificationService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/EmailCertificationService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2025" y="2486"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="kosta.mvc.service.MemberService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/MemberService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2365" y="2593"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="70" language="java" name="kosta.mvc.service.MypageService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/MypageService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2728" y="2513"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="71" language="java" name="kosta.mvc.service.myPageServiceImpl" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/myPageServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2731" y="2999"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="kosta.mvc.service.OrderServiceImpl" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/OrderServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3290" y="3149"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="73" language="java" name="kosta.mvc.service.OrderService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/OrderService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3290" y="2587"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="74" language="java" name="kosta.mvc.service.ProductService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/ProductService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3677" y="2469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="75" language="java" name="kosta.mvc.service.ProductServiceImpl" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/ProductServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3694" y="2771"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="76" language="java" name="kosta.mvc.service.RefundService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/RefundService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4055" y="2491"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="77" language="java" name="kosta.mvc.service.RefundServiceImpl" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/RefundServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4069" y="2821"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="78" language="java" name="kosta.mvc.service.ReplyService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/ReplyService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4335" y="2431"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="79" language="java" name="kosta.mvc.service.ReplyServiceImpl" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/ReplyServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4353" y="2613"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="80" language="java" name="kosta.mvc.service.ReviewService" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/ReviewService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4594" y="2422"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="81" language="java" name="kosta.mvc.service.ReviewServiceImpl" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/service/ReviewServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4594" y="2606"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="kosta.mvc.vo.Calorie" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/vo/Calorie.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4903" y="1784"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="83" language="java" name="kosta.mvc.repository.AddressRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/AddressRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="188" y="2929"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="84" language="java" name="kosta.mvc.repository.BoardImageRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/BoardImageRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="412" y="2909"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="85" language="java" name="kosta.mvc.repository.BoardRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/BoardRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="657" y="2965"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="86" language="java" name="kosta.mvc.repository.BurnCalorieRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/BurnCalorieRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1011" y="2920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="87" language="java" name="kosta.mvc.repository.CartRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/CartRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1318" y="2946"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="88" language="java" name="kosta.mvc.repository.ChallengeRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/ChallengeRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1594" y="2942"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="89" language="java" name="kosta.mvc.repository.FoodCalorieRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/FoodCalorieRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="231" y="3089"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="90" language="java" name="kosta.mvc.repository.GradeRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/GradeRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1668" y="3116"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="91" language="java" name="kosta.mvc.repository.InfoRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/InfoRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="540" y="3123"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="92" language="java" name="kosta.mvc.repository.MemberRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/MemberRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="912" y="3208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="93" language="java" name="kosta.mvc.repository.NonuserOrderDetailRepository" 
+    project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/NonuserOrderDetailRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1683" y="3250"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="94" language="java" name="kosta.mvc.repository.NonuserOrderRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/NonuserOrderRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="362" y="3282"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="95" language="java" name="kosta.mvc.repository.NonuserRefundRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/NonuserRefundRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="198" y="3410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="96" language="java" name="kosta.mvc.repository.ReplyRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/ReplyRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1694" y="3393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="97" language="java" name="kosta.mvc.repository.ReviewRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/ReviewRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1469" y="3102"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="98" language="java" name="kosta.mvc.repository.UserOrderDetailRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/UserOrderDetailRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="590" y="3439"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="99" language="java" name="kosta.mvc.repository.UserOrderRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/UserOrderRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1074" y="3424"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="100" language="java" name="kosta.mvc.repository.UserRefundRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/UserRefundRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1357" y="3273"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="101" language="java" name="kosta.mvc.repository.product.ProductImageRepository" 
+    project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/product/ProductImageRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1413" y="3459"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="102" language="java" name="kosta.mvc.repository.product.ProductQuestionRepository" 
+    project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/product/ProductQuestionRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="63" width="181" x="1505" y="3453"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="103" language="java" name="kosta.mvc.repository.product.ProductRepository" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/repository/product/ProductRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1297" y="3590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="104" language="java" name="kosta.mvc.FinalProjectTeam3Application" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/FinalProjectTeam3Application.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="192" x="82" y="3570"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="105" language="java" name="kosta.mvc.ServletInitializer" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/ServletInitializer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="483" y="3622"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="106" language="java" name="kosta.mvc.config.AppConfig" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/config/AppConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="854" y="3627"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="107" language="java" name="kosta.mvc.config.ChallengeScheduler" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/config/ChallengeScheduler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1623" y="3629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="108" language="java" name="kosta.mvc.config.EmailConfig" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/config/EmailConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1840" y="3676"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="109" language="java" name="kosta.mvc.config.MultiHttpSecurityConfig" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/config/MultiHttpSecurityConfig.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="842" y="3760"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="110" language="java" name="kosta.mvc.config.MultiHttpSecurityConfig.AuthenticationFilterAnotherParam" 
+    project="FinalProject_Team3" file="/FinalProject_Team3/src/main/java/kosta/mvc/config/MultiHttpSecurityConfig.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="409" y="3926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="111" language="java" name="kosta.mvc.config.MultiHttpSecurityConfig.SecurityConfig" 
+    project="FinalProject_Team3" file="/FinalProject_Team3/src/main/java/kosta/mvc/config/MultiHttpSecurityConfig.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="827" y="3935"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="112" language="java" name="kosta.mvc.config.MultiHttpSecurityConfig.ShopSecurityConfig" 
+    project="FinalProject_Team3" file="/FinalProject_Team3/src/main/java/kosta/mvc/config/MultiHttpSecurityConfig.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1169" y="3944"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="113" language="java" name="kosta.mvc.config.TilesConfig" project="FinalProject_Team3" 
+    file="/FinalProject_Team3/src/main/java/kosta/mvc/config/TilesConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1497" y="3786"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="114">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <nesting id="115">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="40"/>  
+  </nesting>  
+  <association id="116">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="117" name="orderList"/>      
+      <multiplicity id="118" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="119">    
+    <end type="SOURCE" refId="109"/>    
+    <end type="TARGET" refId="112"/>  
+  </nesting>  
+  <association id="120">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="121" name="memberService"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="124" name="member"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="126">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="127" name="challengeList"/>      
+      <multiplicity id="128" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="129">    
+    <end type="SOURCE" refId="109"/>    
+    <end type="TARGET" refId="110"/>  
+  </nesting>  
+  <association id="130">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="131" name="member"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="133">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="134" name="userOrderDetailRepository"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="98" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="137" name="info"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="139">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="140" name="cartService"/>      
+      <multiplicity id="141" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="142">    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="143" name="memberService"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="145">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <association id="146">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="147" name="product"/>      
+      <multiplicity id="148" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="150" name="cartService"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="153" name="boardService"/>      
+      <multiplicity id="154" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="156" name="board"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="158">    
+    <end type="SOURCE" refId="69" navigable="false">      
+      <attribute id="159" name="infoRepository"/>      
+      <multiplicity id="160" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="161">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <association id="162">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="163" name="product"/>      
+      <multiplicity id="164" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="165">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="166" name="productService"/>      
+      <multiplicity id="167" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="168">    
+    <end type="SOURCE" refId="72"/>    
+    <end type="TARGET" refId="73"/>  
+  </realization>  
+  <association id="169">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="170" name="nonuserOrderDetailRepository"/>      
+      <multiplicity id="171" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="93" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="172">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="173" name="cartRepository"/>      
+      <multiplicity id="174" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="175">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="176" name="productReviewList"/>      
+      <multiplicity id="177" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="178">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="179" name="certificationService"/>      
+      <multiplicity id="180" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="181">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="182" name="boardRepository"/>      
+      <multiplicity id="183" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="184">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="185" name="productImageRepository"/>      
+      <multiplicity id="186" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="101" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="187">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="188" name="replyRep"/>      
+      <multiplicity id="189" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="96" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="190">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="43"/>  
+  </nesting>  
+  <realization id="191">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="60"/>  
+  </realization>  
+  <association id="192">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="193" name="member"/>      
+      <multiplicity id="194" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="195">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="196" name="review"/>      
+      <multiplicity id="197" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="198">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="199" name="infoRepository"/>      
+      <multiplicity id="200" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="201">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="29"/>  
+  </nesting>  
+  <association id="202">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="203" name="myPageService"/>      
+      <multiplicity id="204" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="205">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <association id="206">    
+    <end type="SOURCE" refId="107" navigable="false">      
+      <attribute id="207" name="challengeRepository"/>      
+      <multiplicity id="208" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="209">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <association id="210">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="211" name="productQuestionList"/>      
+      <multiplicity id="212" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="213">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="214" name="memberRepository"/>      
+      <multiplicity id="215" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="216">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="217" name="userOrder"/>      
+      <multiplicity id="218" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="219">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="220" name="member"/>      
+      <multiplicity id="221" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="222">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <association id="223">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="224" name="refundService"/>      
+      <multiplicity id="225" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="226">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="227" name="boardRepository"/>      
+      <multiplicity id="228" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="229">    
+    <end type="SOURCE" refId="81"/>    
+    <end type="TARGET" refId="80"/>  
+  </realization>  
+  <association id="230">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="231" name="nonuserOrder"/>      
+      <multiplicity id="232" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="233">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="234" name="userOrder"/>      
+      <multiplicity id="235" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="236">    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="237" name="orderService"/>      
+      <multiplicity id="238" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="239">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="240" name="boardService"/>      
+      <multiplicity id="241" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="242">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <association id="243">    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="244" name="memberService"/>      
+      <multiplicity id="245" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="246">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <association id="247">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="248" name="productImageList"/>      
+      <multiplicity id="249" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="250">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="37"/>  
+  </nesting>  
+  <association id="251">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="252" name="userOrderRepository"/>      
+      <multiplicity id="253" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="99" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="254">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="255" name="burnCalorieRepository"/>      
+      <multiplicity id="256" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="86" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="257">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="258" name="productRepository"/>      
+      <multiplicity id="259" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="103" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="260">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="261" name="productRepository"/>      
+      <multiplicity id="262" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="103" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="263">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="264" name="readNumList"/>      
+      <multiplicity id="265" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="266">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="267" name="cartList"/>      
+      <multiplicity id="268" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="269">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="270" name="productReviewList"/>      
+      <multiplicity id="271" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="272">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="273" name="tag"/>      
+      <multiplicity id="274" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="275">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="276" name="userOrderDetailRepository"/>      
+      <multiplicity id="277" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="98" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="278">    
+    <end type="SOURCE" refId="79"/>    
+    <end type="TARGET" refId="78"/>  
+  </realization>  
+  <association id="279">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="280" name="productQuestionList"/>      
+      <multiplicity id="281" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="282">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="283" name="member"/>      
+      <multiplicity id="284" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="285">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="286" name="challengeRepository"/>      
+      <multiplicity id="287" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="288">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="289" name="replyRepository"/>      
+      <multiplicity id="290" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="96" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="291">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="292" name="member"/>      
+      <multiplicity id="293" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="294">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="295" name="challenge"/>      
+      <multiplicity id="296" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="297">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="298" name="product"/>      
+      <multiplicity id="299" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="300">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="301" name="challengeService"/>      
+      <multiplicity id="302" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="303">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="304" name="boardImageList"/>      
+      <multiplicity id="305" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="306">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="307" name="boards"/>      
+      <multiplicity id="308" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="309">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="310" name="nonuserOrderDetail"/>      
+      <multiplicity id="311" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="312">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="313" name="cartService"/>      
+      <multiplicity id="314" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="315">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="316" name="userOrder"/>      
+      <multiplicity id="317" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="318">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="319" name="gradeRepository"/>      
+      <multiplicity id="320" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="90" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="321">    
+    <end type="SOURCE" refId="107" navigable="false">      
+      <attribute id="322" name="infoRepository"/>      
+      <multiplicity id="323" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="324">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="325" name="list"/>      
+      <multiplicity id="326" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="327">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="328" name="cartRepository"/>      
+      <multiplicity id="329" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="330">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="331" name="member"/>      
+      <multiplicity id="332" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="333">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <association id="334">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="335" name="member"/>      
+      <multiplicity id="336" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="337">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="338" name="replyList"/>      
+      <multiplicity id="339" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="340">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="341" name="userOrderDetail"/>      
+      <multiplicity id="342" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="343">    
+    <end type="SOURCE" refId="81" navigable="false">      
+      <attribute id="344" name="reviewRepository"/>      
+      <multiplicity id="345" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="97" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="346">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="347" name="cartList"/>      
+      <multiplicity id="348" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="349">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="350" name="member"/>      
+      <multiplicity id="351" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="352">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="353" name="list"/>      
+      <multiplicity id="354" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="355">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="356" name="addressList"/>      
+      <multiplicity id="357" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="358">    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="359" name="productService"/>      
+      <multiplicity id="360" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="361">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="362" name="nonuserOrderDetailList"/>      
+      <multiplicity id="363" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="364">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="365" name="challenge"/>      
+      <multiplicity id="366" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="367">    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="368" name="reviewService"/>      
+      <multiplicity id="369" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="80" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="370">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="371" name="productImageList"/>      
+      <multiplicity id="372" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="373">    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="63"/>  
+  </realization>  
+  <association id="374">    
+    <end type="SOURCE" refId="69" navigable="false">      
+      <attribute id="375" name="memberRepository"/>      
+      <multiplicity id="376" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="377">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="378" name="dateList"/>      
+      <multiplicity id="379" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="380">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="38"/>  
+  </nesting>  
+  <realization id="381">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="74"/>  
+  </realization>  
+  <association id="382">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="383" name="boardList"/>      
+      <multiplicity id="384" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="385">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="386" name="product"/>      
+      <multiplicity id="387" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="388">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="389" name="userOrderDetail"/>      
+      <multiplicity id="390" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="391">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="392" name="userOrderDetailList"/>      
+      <multiplicity id="393" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="394">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="395" name="memberService"/>      
+      <multiplicity id="396" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="397">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="398" name="replyList"/>      
+      <multiplicity id="399" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="400">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="401" name="userOrderDetailList"/>      
+      <multiplicity id="402" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="403">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="404" name="member"/>      
+      <multiplicity id="405" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="406">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="407" name="board"/>      
+      <multiplicity id="408" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="409">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="410" name="nonuserOrder"/>      
+      <multiplicity id="411" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="412">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="413" name="replyList"/>      
+      <multiplicity id="414" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="415">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="416" name="nonuserOrder"/>      
+      <multiplicity id="417" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="418">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <generalization id="419">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <association id="420">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="421" name="memberService"/>      
+      <multiplicity id="422" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="423">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="424" name="productImageRepository"/>      
+      <multiplicity id="425" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="101" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="426">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="427" name="userOrderDetail"/>      
+      <multiplicity id="428" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="429">    
+    <end type="SOURCE" refId="109"/>    
+    <end type="TARGET" refId="111"/>  
+  </nesting>  
+  <association id="430">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="431" name="product"/>      
+      <multiplicity id="432" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="433">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="434" name="member"/>      
+      <multiplicity id="435" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="436">    
+    <end type="SOURCE" refId="59" navigable="false">      
+      <attribute id="437" name="addressRepository"/>      
+      <multiplicity id="438" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="439">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="440" name="nonuserRefundRepository"/>      
+      <multiplicity id="441" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="95" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="442">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="443" name="orderService"/>      
+      <multiplicity id="444" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="445">    
+    <end type="SOURCE" refId="58" navigable="false">      
+      <attribute id="446" name="memberService"/>      
+      <multiplicity id="447" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="448">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="449" name="replyService"/>      
+      <multiplicity id="450" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="451">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="452" name="tag"/>      
+      <multiplicity id="453" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="454">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="455" name="nonuserOrderDetailList"/>      
+      <multiplicity id="456" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="457">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="458" name="memberService"/>      
+      <multiplicity id="459" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="460">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="66"/>  
+  </realization>  
+  <association id="461">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="462" name="addressService"/>      
+      <multiplicity id="463" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="464">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="465" name="userRefundRepository"/>      
+      <multiplicity id="466" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="100" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="467">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="468" name="emailCertificationService"/>      
+      <multiplicity id="469" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="470">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="471" name="product"/>      
+      <multiplicity id="472" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="473">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="474" name="product"/>      
+      <multiplicity id="475" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="476">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="477" name="refundService"/>      
+      <multiplicity id="478" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="479">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="27"/>  
+  </nesting>  
+  <association id="480">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="481" name="memberService"/>      
+      <multiplicity id="482" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="483">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <association id="484">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="485" name="member"/>      
+      <multiplicity id="486" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="487">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="488" name="nonuserOrderDetail"/>      
+      <multiplicity id="489" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="490">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="491" name="deleteCartList"/>      
+      <multiplicity id="492" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="493">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="76"/>  
+  </realization>  
+  <nesting id="494">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <association id="495">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="496" name="nonuserOrderDetailList"/>      
+      <multiplicity id="497" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="498">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="499" name="boardList"/>      
+      <multiplicity id="500" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="501">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="502">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="503" name="productRepository"/>      
+      <multiplicity id="504" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="103" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="505">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="506" name="memberService"/>      
+      <multiplicity id="507" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="508">    
+    <end type="SOURCE" refId="58" navigable="false">      
+      <attribute id="509" name="addressService"/>      
+      <multiplicity id="510" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="511">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="512" name="board"/>      
+      <multiplicity id="513" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="514">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="515" name="nonuserOrderRepository"/>      
+      <multiplicity id="516" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="94" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="517">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="518" name="boards"/>      
+      <multiplicity id="519" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="520">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="521" name="foodCalorieRepository"/>      
+      <multiplicity id="522" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="89" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="523">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="524" name="productService"/>      
+      <multiplicity id="525" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="526">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="527" name="product"/>      
+      <multiplicity id="528" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="529">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="530" name="review"/>      
+      <multiplicity id="531" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="532">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="533" name="product"/>      
+      <multiplicity id="534" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="535">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="70"/>  
+  </realization>  
+  <generalization id="536">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <association id="537">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="538" name="userOrderDetailList"/>      
+      <multiplicity id="539" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="540">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="541" name="challengeRepository"/>      
+      <multiplicity id="542" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="543">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="544" name="productRepository"/>      
+      <multiplicity id="545" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="103" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="546">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="547" name="nonuserOrderDetailRepository"/>      
+      <multiplicity id="548" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="93" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="549">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="45"/>  
+  </nesting>  
+  <association id="550">    
+    <end type="SOURCE" refId="109" navigable="false">      
+      <attribute id="551" name="memberService"/>      
+      <multiplicity id="552" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="553">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="554" name="boardImageList"/>      
+      <multiplicity id="555" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="556">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="557" name="boardList"/>      
+      <multiplicity id="558" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

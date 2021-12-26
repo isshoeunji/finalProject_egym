@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+	"http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+ <definition name="boardLayout" template="/WEB-INF/tiles/board/layout.jsp">     
+  <put-attribute name="header" value="/WEB-INF/tiles/board/header.jsp"/>
+  <put-attribute name="footer" value="/WEB-INF/tiles/board/footer.jsp"/>
+ </definition>
+ 
+ <definition name="shopLayout" template="/WEB-INF/tiles/shop/layout.jsp">
+   <put-attribute name="header" value="/WEB-INF/tiles/shop/header.jsp"/>
+   <put-attribute name="aside" value="/WEB-INF/tiles/shop/aside.jsp"/>
+   <put-attribute name="footer" value="/WEB-INF/tiles/shop/footer.jsp"/>
+ </definition>
+ 
+ <!--  뷰의정보가 board/* 인경우 boardLayout.jsp모양으로... -->
+ <definition extends="boardLayout" name="board/**">
+   <put-attribute name="content" value="/WEB-INF/views/board/{1}.jsp"/>
+ </definition>
+ 
+ <!-- 뷰의정보가 shop/* 인경우  shopLayout.jsp모양으로... -->
+ <definition extends="shopLayout" name="shop/**">
+   <put-attribute name="content" value="/WEB-INF/views/shop/{1}.jsp"/>
+ </definition>
+ 
+ 
+  
+ <!-- Controller에서 리턴되는 뷰의정보에따라 화면구성 
+       : 뷰의 정보 패턴이 */* 인경우에
+          아래의  definition을 따른다.
+          ex) controler에서 user/login 으로 뷰정보가 리턴되면
+          
+  -->
+<!--  <definition extends="layout" name="*/*">
+   <put-attribute name="content" value="/WEB-INF/views/{1}/{2}.jsp"/>
+ </definition> -->
+
+</tiles-definitions> 
+
+
+
+
+                                 
