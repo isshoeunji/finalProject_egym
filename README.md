@@ -135,7 +135,7 @@ SpringBoot + JPA를 이용한 운동 커뮤니티와 다이어트식품 쇼핑�
 <!-- End 댓글 입력 폼 -->
  ```
 - **댓글 삭제하기** - 시큐리티 적용
-	- `댓글 작성자와 로그인 된 사용자가 일치할 경우`와 `관리자로 로그인 되어있을 경우`만 `삭제하기` 버튼이 보이도록 구현.
+	- **댓글 작성자와 로그인 된 사용자가 일치할 경우**와 **관리자로 로그인 되어있을 경우**만 `삭제하기` 버튼이 보이도록 구현.
 
 ![reply3](https://user-images.githubusercontent.com/88135219/147481031-d40df432-e900-4bbf-9aa7-e316adebbf66.png)
 ![reply4](https://user-images.githubusercontent.com/88135219/147481057-b66b1afc-a30b-4002-8d96-b833d9e5d52d.png)
