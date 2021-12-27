@@ -77,7 +77,7 @@ SpringBoot + JPA를 이용한 운동 커뮤니티와 다이어트식품 쇼핑�
 - 폰트 색상, 굵기 변경 기능 등
 #### 2. 게시글 수정
 ![update](https://user-images.githubusercontent.com/88135219/147475096-069388fe-dc91-461f-9093-1935fbb4415a.png)
-글 작성자와 로그인된 사용자가 일치할 경우에만 글 수정이 가능하도록 시큐리티와 JSTL을 이용하여 View단에 적용.
+<br>글 작성자와 로그인된 사용자가 일치할 경우에만 글 수정이 가능하도록 시큐리티와 JSTL을 이용하여 View단에 적용.
 ```java
 <sec:authorize access="isAuthenticated()">
 	          <sec:authentication property="principal" var="user"/>
