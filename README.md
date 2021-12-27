@@ -70,14 +70,14 @@ SpringBoot + JPA를 이용한 운동 커뮤니티와 다이어트식품 쇼핑�
 ### ✍ 게시글 `등록` | `수정` | `삭제` | `댓글기능` 구현
 ----
 #### 1. 게시글 등록
-![write](https://user-images.githubusercontent.com/88135219/147474728-56a6d572-82cc-4dd7-827e-6300ea4743d9.png)
-<br>글 작성시 좀 더 많은 기능들을 위하여 `서머노트`를 적용시켰습니다.
+글 작성시 좀 더 많은 기능들을 위하여 `서머노트`를 적용시켰습니다.
 - 이미지 첨부 기능
 - 동영상 url 첨부 기능
 - 폰트 색상, 굵기 변경 기능 등
+![write](https://user-images.githubusercontent.com/88135219/147474728-56a6d572-82cc-4dd7-827e-6300ea4743d9.png)
 #### 2. 게시글 수정
+- 글 작성자와 로그인된 사용자가 일치할 경우에만 글 수정이 가능하도록 `시큐리티`와 `JSTL`을 이용하여 View단에 적용.
 ![update](https://user-images.githubusercontent.com/88135219/147475096-069388fe-dc91-461f-9093-1935fbb4415a.png)
-<br>글 작성자와 로그인된 사용자가 일치할 경우에만 글 수정이 가능하도록 `시큐리티`와 `JSTL`을 이용하여 View단에 적용.
 ```java
 <sec:authorize access="isAuthenticated()">
 	          <sec:authentication property="principal" var="user"/>
