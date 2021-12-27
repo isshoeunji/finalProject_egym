@@ -73,10 +73,10 @@ SpringBoot + JPA를 이용한 운동 커뮤니티와 다이어트식품 쇼핑�
 글 작성시 좀 더 많은 기능들을 위하여 `서머노트`를 적용시켰습니다.
 - 이미지 첨부 기능
 - 동영상 url 첨부 기능
-- 폰트 색상, 굵기 변경 기능 등
+- 폰트 색상, 굵기 변경 기능 등 <br>
 ![write](https://user-images.githubusercontent.com/88135219/147474728-56a6d572-82cc-4dd7-827e-6300ea4743d9.png)
 #### 2. 게시글 수정
-- 글 작성자와 로그인된 사용자가 일치할 경우에만 글 수정이 가능하도록 `시큐리티`와 `JSTL`을 이용하여 View단에 적용.
+- 글 작성자와 로그인된 사용자가 일치할 경우에만 글 수정이 가능하도록 `시큐리티`와 `JSTL`을 이용하여 View단에 적용. <br>
 ![update](https://user-images.githubusercontent.com/88135219/147475096-069388fe-dc91-461f-9093-1935fbb4415a.png)
 ```java
 <sec:authorize access="isAuthenticated()">
@@ -94,13 +94,12 @@ SpringBoot + JPA를 이용한 운동 커뮤니티와 다이어트식품 쇼핑�
 ```
 
 #### 3. 게시글 삭제
+- **글 작성자와 로그인된 사용자가 일치할 경우** 삭제하기 버튼이 보이도록 구현.<br>
+- 삭제하기 버튼을 누르면 **글 작성 시 입력했던 비밀번호와 일치한 경우**에만 삭제하도록 구현. <br>
 ![delete1](https://user-images.githubusercontent.com/88135219/147480024-59ab33a6-d860-4bdc-b1ba-1f2829e17267.png) 
 ---
 
 ![delete2](https://user-images.githubusercontent.com/88135219/147480073-1954db7e-0226-4a4c-9866-ce82f7449eae.png)
-- **글 작성자와 로그인된 사용자가 일치할 경우** 삭제하기 버튼이 보이도록 구현.<br>
-
-- 삭제하기 버튼을 누르면 **글 작성 시 입력했던 비밀번호와 일치한 경우**에만 삭제하도록 구현.
 ```java
 @Override
 	public void delete(Long boardNo, String password) {
